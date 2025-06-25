@@ -1,37 +1,55 @@
+🎬 Projeto Autoral: Sophia Photography
+Projeto pessoal criado em 2024 como desafio prático para aplicar conhecimentos em HTML, CSS, JavaScript, jQuery e Bootstrap.
 
-🎬 Projeto autoral
-Este é um projeto pessoal criado como desafio prático para aplicar conhecimentos em HTML, CSS, JavaScript, jQuery e Bootstrap.
-Projeto autoral criado em 2024 usando HTML, Css, JavaScript básico, utilizei a biblioteca jQuery para facilitar a manipulação de elementos DOM e eventos, além de Bootstrap e FlexBox.
+Desenvolvi uma interface responsiva inspirada em uma página de fotógrafo, com foco em:
 
-A proposta foi desenvolver uma interface responsiva inspirada em uma página de fotógrafo, com foco em estrutura semântica, organização visual e interatividade com carrosséis e efeitos de hover.
+Estrutura semântica
 
-🔗 Acesse o site publicado:
+Organização visual
+
+Interatividade com carrosséis e efeitos de hover
+
+Utilizei jQuery para facilitar a manipulação do DOM e eventos, além de Bootstrap e Flexbox para layout responsivo.
+
+🔗 Acesse o site publicado
 https://danielafoggiatto.github.io/Sophia-Photography--Projeto-Autoral/
 
 🛠️ Tecnologias utilizadas
 HTML5
+
 CSS3
+
 JavaScript (básico)
+
 jQuery
+
 Bootstrap
 
 📚 Aprendizados
 Durante o desenvolvimento, pratiquei:
 
 Organização de componentes com HTML semântico
+
 Criação de responsividade com Bootstrap e Flexbox
+
 Manipulação de elementos com jQuery
-Publicação com GitHub Pages
+
+Publicação usando GitHub Pages
+
 🚀 Como acessar
-https://danielafoggiatto.github.io/Sophia-Photography--Projeto-Autoral/
-Explore a interface e veja como funciona o layout.
+Basta visitar o link acima e explorar a interface para ver o funcionamento do layout.
+
 📌 Observações
-Este é um projeto de estudo e não possui backend ou funcionalidade de login real.
-Todas as imagens e textos são fictícios ou retirados da web com fins educacionais.
+Projeto de estudo, sem backend ou funcionalidade de login real
+
+Imagens e textos são fictícios ou coletados para fins educacionais
 
 👩‍💻 Sobre mim
-Sou Daniela Foggiatto, estudante de Análise e Desenvolvimento de Sistemas com foco em C# e JavaScript, buscando oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software.
+Sou Daniela Foggiatto, estudante de Análise e Desenvolvimento de Sistemas com foco em C# e JavaScript, em busca de oportunidades para aplicar e expandir meus conhecimentos em desenvolvimento de software.
 
-🔗 Meu GitHub
-📧 foggiattodaniela@hotmail.com
-🌍 Florianópolis - SC
+📫 Contato
+GitHub: danielafoggiatto
+
+Email: foggiattodaniela@hotmail.com
+
+Localização: Florianópolis - SC
