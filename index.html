@@ -24,7 +24,7 @@
                 <div class="collapse navbar-collapse ms-auto" id="navmenu">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a href="#" class="nav-link text-white" onclick="carregarConteudo('index')">Home</a>
+                            <a href="#" class="nav-link text-white" onclick="carregarConteudo('home')">Home</a>
                         </li>
                         <li class="nav-item">
                             <a href="#" class="nav-link text-white" onclick="carregarConteudo('services')">Services</a>
@@ -87,7 +87,7 @@
         </a>
     </footer>   
     <script>
-        document.addEventListener('DOMContentLoaded', fetch('index.html')
+        document.addEventListener('DOMContentLoaded', fetch('home.html')
                         .then(response => response.text())  
                         .then(data => {
                             conteudo.innerHTML = data;  
@@ -101,9 +101,9 @@
             var conteudo = document.getElementById('conteudo');
 
             switch (pagina) {
-                case 'index':
+                case 'home':
                 {
-                    fetch('index.html')
+                    fetch('home.html')
                         .then(response => response.text())  
                         .then(data => {
                             conteudo.innerHTML = data;  
