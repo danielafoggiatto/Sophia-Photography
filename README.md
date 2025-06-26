@@ -2,7 +2,7 @@
 
 ---
 
-> Projeto pessoal criado em 2024 como desafio prático para aplicar conhecimentos em **HTML**, **CSS**, **JavaScript**, **jQuery** e **Bootstrap**.
+> Projeto pessoal criado em 2024 como desafio prático para aplicar conhecimentos em **HTML**, **CSS**, **JavaScript**, **Media queries** e **Bootstrap**.
 
 Desenvolvi uma interface responsiva inspirada em uma página de fotógrafo, focando em:
 
